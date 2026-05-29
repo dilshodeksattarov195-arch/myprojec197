@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsarse",
+        "uuid": 1955028,
+        "checksum": "qzhuy"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
